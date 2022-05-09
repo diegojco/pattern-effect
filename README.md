@@ -1,5 +1,7 @@
 # `pattern_effect`
 
+[![DOI](https://zenodo.org/badge/490188955.svg)](https://zenodo.org/badge/latestdoi/490188955)
+
 Source code and notebook for the project "The varying Earth's radiative feedback connected to the ocean energy uptake: a theoretical perspective from conceptual frameworks"
 
 ## Additional downloads
