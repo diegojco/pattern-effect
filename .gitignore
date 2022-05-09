@@ -1,0 +1,6 @@
+*.log
+*.nc
+*.pdf
+*.png
+*.pyc
+.ipynb_checkpoints
